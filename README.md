@@ -26,4 +26,4 @@ If default values need to be changed, do so via the `config.json` file.
 
 # Sources
 
-[1] *official documentation on argparse* https://docs.python.org/2.7/library/argparse.html (Accesses on May 26th 2020)
+[1] *official documentation on argparse* https://docs.python.org/2.7/library/argparse.html (Accessesed on May 26th 2020)
