@@ -20,7 +20,7 @@ optional arguments:
 
 ```
 
-By default the password length is 14 characters and capital letters, numbers and special characters are included. Use the respective arguments to exclude them.
+By default the password length is 14 characters and capital letters, numbers and special characters are included. Use the respective arguments to exclude them. If the password length needs to be changed type `python randpass.py -l <length>`.
 
 If default values need to be changed, do so via the `config.json` file.
 
