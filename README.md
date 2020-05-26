@@ -4,7 +4,7 @@ by Tim Degold
 
 It's pretty simple to use. To see how it works run 
 
-```bash
+```
 $ python randpass.py -h
 usage: randpass.py [-h] [-l] [-c] [-n] [-s]
 
